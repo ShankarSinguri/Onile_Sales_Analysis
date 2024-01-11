@@ -23,8 +23,11 @@ Sales Data: The primary Data set used for this analysis is the "Onlinesalesdata.
 
 ## Data cleaning/Preparation:
 In the initial Data prepration phase,We performed following tasks:
+
 1.Data loading and inspection
+
 2.Handling missing values
+
 3.Data cleaning and formatting 
 
 ## Exploratory data analysis:
